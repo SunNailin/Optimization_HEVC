@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/1/16 星期一 16:24:40。
+     1>项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TAppCommon_vc10.vcxproj”在节点 5 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\TAppCommon.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\source\Lib\\" /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /Oy- /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\\" /Fd"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TAppCommon\program_options_lite.cpp
+         program_options_lite.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\TAppCommon.lib" /NOLOGO /LTCG "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\program_options_lite.obj"
+         TAppCommon_vc10.vcxproj -> E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\TAppCommon.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\TAppCommon.unsuccessfulbuild”。
+         正在对“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TAppCommon\TAppCommon.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TAppCommon_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.72

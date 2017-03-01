@@ -1,0 +1,54 @@
+﻿生成启动时间为 2017/1/16 星期一 16:24:40。
+     1>项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TLibEncoder_vc10.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TLibEncoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\source\Lib\\" /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /Oy- /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\\" /Fd"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibEncoder\NALwrite.cpp ..\..\source\Lib\TLibEncoder\SEIwrite.cpp ..\..\source\Lib\TLibEncoder\SyntaxElementWriter.cpp ..\..\source\Lib\TLibEncoder\TEncAnalyze.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABAC.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABACCounter.cpp ..\..\source\Lib\TLibEncoder\TEncCavlc.cpp ..\..\source\Lib\TLibEncoder\TEncCu.cpp ..\..\source\Lib\TLibEncoder\TEncEntropy.cpp ..\..\source\Lib\TLibEncoder\TEncGOP.cpp ..\..\source\Lib\TLibEncoder\TEncPic.cpp ..\..\source\Lib\TLibEncoder\TEncPreanalyzer.cpp ..\..\source\Lib\TLibEncoder\TEncRateCtrl.cpp ..\..\source\Lib\TLibEncoder\TEncSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibEncoder\TEncSbac.cpp ..\..\source\Lib\TLibEncoder\TEncSearch.cpp ..\..\source\Lib\TLibEncoder\TEncSlice.cpp ..\..\source\Lib\TLibEncoder\TEncTop.cpp ..\..\source\Lib\TLibEncoder\WeightPredAnalysis.cpp
+         NALwrite.cpp
+         SEIwrite.cpp
+         SyntaxElementWriter.cpp
+         TEncAnalyze.cpp
+         TEncBinCoderCABAC.cpp
+         TEncBinCoderCABACCounter.cpp
+         TEncCavlc.cpp
+         TEncCu.cpp
+         TEncEntropy.cpp
+         TEncGOP.cpp
+         TEncPic.cpp
+         TEncPreanalyzer.cpp
+         TEncRateCtrl.cpp
+         TEncSampleAdaptiveOffset.cpp
+         TEncSbac.cpp
+         TEncSearch.cpp
+         TEncSlice.cpp
+         TEncTop.cpp
+         WeightPredAnalysis.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TLibEncoder.lib" /NOLOGO /LTCG "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\NALwrite.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\SEIwrite.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\SyntaxElementWriter.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncAnalyze.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncBinCoderCABAC.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncCavlc.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncCu.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncEntropy.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncGOP.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncPic.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncPreanalyzer.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncRateCtrl.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncSbac.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncSearch.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncSlice.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TEncTop.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc10.vcxproj -> E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TLibEncoder.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TLibEncoder.unsuccessfulbuild”。
+         正在对“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibEncoder\TLibEncoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TLibEncoder_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.92

@@ -1,0 +1,66 @@
+﻿生成启动时间为 2017/1/16 星期一 16:24:40。
+     1>项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TLibCommon_vc10.vcxproj”在节点 4 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TLibCommon.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\source\Lib\\" /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /Oy- /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\\" /Fd"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp
+         ContextModel.cpp
+         ContextModel3DBuffer.cpp
+         SEI.cpp
+         TComBitStream.cpp
+         TComCABACTables.cpp
+         TComDataCU.cpp
+         TComInterpolationFilter.cpp
+         TComLoopFilter.cpp
+         TComMotionInfo.cpp
+         TComPattern.cpp
+         TComPic.cpp
+         TComPicSym.cpp
+         TComPicYuv.cpp
+         TComPicYuvMD5.cpp
+         TComPrediction.cpp
+         TComRdCost.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRom.cpp
+         TComSampleAdaptiveOffset.cpp
+         TComSlice.cpp
+         正在编译...
+         TComTrQuant.cpp
+         TComWeightPrediction.cpp
+         TComYuv.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\source\Lib\\" /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /Oy- /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\\" /Fd"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\Lib\libmd5\libmd5.c
+         libmd5.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TLibCommon.lib" /NOLOGO /LTCG "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\ContextModel.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\ContextModel3DBuffer.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\libmd5.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\SEI.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComBitStream.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComCABACTables.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComDataCU.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComInterpolationFilter.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComLoopFilter.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComMotionInfo.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComPattern.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComPic.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComPicSym.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComPicYuv.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComPicYuvMD5.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComPrediction.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComRdCost.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComRdCostWeightPrediction.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComRom.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComSlice.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComTrQuant.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComWeightPrediction.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TComYuv.obj"
+         TLibCommon_vc10.vcxproj -> E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TLibCommon.lib
+       FinalizeBuildStatus:
+         正在删除文件“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TLibCommon.unsuccessfulbuild”。
+         正在对“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Release\TLibCommon\TLibCommon.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TLibCommon_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:24.58

@@ -1,0 +1,44 @@
+﻿生成启动时间为 2017/1/16 星期一 16:23:32。
+     1>项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TAppDecoder_vc10.vcxproj”在节点 5 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\学习工作\毕业论文资料\HM-15.0\build\\..\bin\vc10\Win32\Debug\”。
+       InitializeBuildStatus:
+         正在创建“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\source\Lib\\" /I"E:\学习工作\毕业论文资料\HM-15.0\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\\" /Fd"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\App\TAppDecoder\decmain.cpp ..\..\source\App\TAppDecoder\TAppDecCfg.cpp ..\..\source\App\TAppDecoder\TAppDecTop.cpp
+         TAppDecTop.cpp
+         TAppDecCfg.cpp
+         decmain.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.embed.manifest.res" "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习工作\毕业论文资料\HM-15.0\build\\..\bin\vc10\Win32\Debug\TAppDecoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\学习工作\毕业论文资料\HM-15.0\bin\vc10\Win32\Debug\TAppDecoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习工作\毕业论文资料\HM-15.0\build\\..\bin\vc10\Win32\Debug\TAppDecoder.lib" /MACHINE:X86 "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.embed.manifest.res"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\decmain.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecCfg.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecTop.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TAppCommon\TAppCommon.lib"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TLibCommon\TLibCommon.lib"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TLibDecoder\TLibDecoder.lib"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.embed.manifest" /manifest "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.embed.manifest.res" "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习工作\毕业论文资料\HM-15.0\build\\..\bin\vc10\Win32\Debug\TAppDecoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\学习工作\毕业论文资料\HM-15.0\bin\vc10\Win32\Debug\TAppDecoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习工作\毕业论文资料\HM-15.0\build\\..\bin\vc10\Win32\Debug\TAppDecoder.lib" /MACHINE:X86 "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.embed.manifest.res"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\decmain.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecCfg.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecTop.obj"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TAppCommon\TAppCommon.lib"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TLibCommon\TLibCommon.lib"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TLibDecoder\TLibDecoder.lib"
+         "E:\学习工作\毕业论文资料\HM-15.0\build\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib"
+         TAppDecoder_vc10.vcxproj -> E:\学习工作\毕业论文资料\HM-15.0\build\\..\bin\vc10\Win32\Debug\TAppDecoder.exe
+       FinalizeBuildStatus:
+         正在删除文件“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.unsuccessfulbuild”。
+         正在对“E:\学习工作\毕业论文资料\HM-15.0\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习工作\毕业论文资料\HM-15.0\build\vc10\TAppDecoder_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.80
